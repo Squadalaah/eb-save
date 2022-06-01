@@ -1,6 +1,6 @@
 # Earthbound Saves
 
-![EB Banner](https://user-images.githubusercontent.com/14339974/169930737-dbf7da7a-f432-449e-a7a3-eee6432fe630.png)
+<img src="https://user-images.githubusercontent.com/14339974/169930737-dbf7da7a-f432-449e-a7a3-eee6432fe630.png" width=600>
 
 This repository is for sharing save files for Earthbound, so the same file can be played across multiple devices.
 
